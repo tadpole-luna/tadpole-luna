@@ -7,6 +7,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<h4 align="center"><em>El Señor es mi pastor, nada me falta.</em></h4>
+
 <p align="center">
   <img src="https://media.tenor.com/yheo1GGu3FwAAAAC/bear-cute.gif" width="150px" alt="Osito saludando" />
 </p>
@@ -21,14 +23,6 @@
 - 🧸 Me encantan los ositos, las estrellas y los detalles suaves  
 - 🎵 Me gusta la música  
 - ☁️ Me considero paciente, soñadora y perseverante  
-
----
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=91A3B0&center=true&vCenter=true&width=480&lines=El+Señor+es+mi+pastor%2C+nada+me+falta.">
-  </a>
-</p>
 
 ---
 
