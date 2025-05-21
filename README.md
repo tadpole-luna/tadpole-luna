@@ -19,7 +19,7 @@
 - 💻 Soy estudiante de informática  
 - ✨ No soy experta, pero aprendo con ganas  
 - ⭐ Creo que el que no arriesga, no gana  
-- 🧸 Me encantan los ositos, las estrellas y los detalles suaves  
+- 🧸 Me encantan los ositos, las estrellas y los detalles del Corazón 
 - 🎵 Me gusta la música  
 
 - 🌱 Actualmente estoy aprendiendo:  
