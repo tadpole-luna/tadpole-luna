@@ -12,6 +12,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=91A3B0&center=true&vCenter=true&width=480&lines=El+Señor+es+mi+pastor%2C+nada+me+falta.">
   </a>
 </p>
+
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;Acerca de mi🌟
+
 - 💻 Soy estudiante de informática  
 - ✨ No soy experta, pero aprendo con ganas  
 - ⭐ Creo que el que no arriesga, no gana  
