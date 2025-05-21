@@ -24,4 +24,4 @@
 
 - 🌱 Actualmente estoy aprendiendo:  
   - Visual Studio Code (VSC)  
-  - Organización de proyectos en GitHub  
+    
